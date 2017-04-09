@@ -1,7 +1,12 @@
 {
   "mongodb-gdm": {
-    "url": "mongodb://jhernandezz.dev:Jhernandezz2390*@ds051334.mlab.com:51334/heroku_tmjmb42p",
+    "host": "localhost",
+    "port": 27017,
+    "database": "gdmDb",
+    "password": "",
     "name": "mongodb-gdm",
+    "dsn": "",
+    "user": "",
     "connector": "mongodb"
   }
 }
