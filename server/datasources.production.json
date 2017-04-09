@@ -1,7 +1,6 @@
 {
   "mongodb-gdm": {
     "url": "mongodb://jhernandezz.dev:Jhernandezz2390*@ds051334.mlab.com:51334/heroku_tmjmb42p",
-    "name": "mongodb-gdm",
     "connector": "mongodb"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "mongodb-gdm": {
+    "host": "localhost",
+    "port": 27017,
+    "database": "gdmDb",
+    "password": "",
+    "name": "mongodb-gdm",
+    "dsn": "",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
